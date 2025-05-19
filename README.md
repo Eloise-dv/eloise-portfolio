@@ -1,6 +1,6 @@
-# Rowan's Portfolio Website
+# Eloise's Portfolio Website
 
-바이브로 코딩하는 개발자 Rowan의 포트폴리오 웹사이트입니다.
+박사과정 지원자 Eloise의 포트폴리오 웹사이트입니다.
 
 ## 🚀 Features
 
@@ -90,4 +90,4 @@ MIT License
 
 ## 👤 Author
 
-Rowan - 바이브 코더 
+Eloise - 박사과정 지원자 
